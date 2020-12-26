@@ -20,10 +20,10 @@ Repository with all my work (notebooks, code, images) from the [coursera lecture
   - Be able to apply sequence models to audio applications, including speech recognition and music synthesis.
   
   Code:
-  - [Week 1 - Building a Recurrent Neural Network - Step by Step](./Sequence_Models/Week%201/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step/Building_a_Recurrent_Neural_Network_Step_by_Step_v3b.ipynb)
-  - [Week 1 - Dinosaur Island - Character-Level Language Modeling](./Sequence_Models/Week%201/Dinosaur%20Island%20--%20Character-level%20language%20model/Dinosaurus_Island_Character_level_language_model_final_v3b.ipynb)
+  - [Week 1 - Building a Recurrent Neural Network - Step by Step](./Sequence_Models/Week%201/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step)
+  - [Week 1 - Dinosaur Island - Character-Level Language Modeling](./Sequence_Models/Week%201/Dinosaur%20Island%20--%20Character-level%20language%20model)
   - [Week 1 - Improvise a Jazz Solo with an LSTM Network](./Sequence_Models/Week%201/Jazz%20improvisation%20with%20LSTM/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v3a.ipynb)
-  - [Week 2 - Operations on word vectors](./Sequence_Models/Week%202/Word%20Vector%20Representation/Operations_on_word_vectors_v2a.ipynb)
-  - [Week 2 - Emojify](./Sequence_Models/week2/Emojify/Emojify_v2a.ipynb)
+  - [Week 2 - Operations on word vectors](./Sequence_Models/Week%202/Word%20Vector%20Representation)
+  - [Week 2 - Emojify](./Sequence_Models/week2/Emojify)
   - [Week 3 - Neural machine translation with attention](./Sequence_Models/Week%203/Machine%20Translation/Neural_machine_translation_with_attention_v4a.ipynb)
   - [Week 3 - Trigger word detection](./Sequence_Models/Week%203/Trigger%20word%20detection/Trigger_word_detection_v1a.ipynb)
