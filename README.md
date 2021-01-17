@@ -1,6 +1,6 @@
 # Coursera Deep Learning Specialization 
 
-Repository with all my work (notebooks, code, images) from the [coursera lectures](https://www.coursera.org/specializations/deep-learning) of deep learning specializations of [Andrew Ng](http://www.andrewng.org/)
+Repository with my work from the [coursera lectures](https://www.coursera.org/specializations/deep-learning) of deep learning specializations of [Andrew Ng](http://www.andrewng.org/)
 
 ## Introduction
 
